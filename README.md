@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Juan José Amengual
+# <p align="center">¡Hola! 👋 Soy Juan José Amengual</p>
 
 💻 **Junior Web Developer**  
 🎓 Técnico Superior en Desarrollo de Aplicaciones Web y Multiplataforma  
