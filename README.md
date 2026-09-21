@@ -18,7 +18,7 @@
 
 ## 🛠️ Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,django,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,php,java,cs,git,github)](https://skillicons.dev)
 
 ### Frontend
 - HTML5
