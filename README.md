@@ -1,6 +1,7 @@
 <div align="center">
     <h1>¡Hola! 👋 Soy Juan José Amengual Far</h1>
     <h3>Desarrollador Web Junior | DAM & DAW</h3>
+    <p>📍 Palma de Mallorca, España</p>
 </div>
 
 ---
