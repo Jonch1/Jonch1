@@ -1,4 +1,7 @@
-# <p align="center">¡Hola! 👋 Soy Juan José Amengual</p>
+<div align="center">
+    <h1>¡Hola! 👋 Soy Juan José Amengual</h1>
+    <h3>Desarrollador de Aplicaciones Multiplataforma y Web</h3>
+</div>
 
 💻 **Junior Web Developer**  
 🎓 Técnico Superior en Desarrollo de Aplicaciones Web y Multiplataforma  
