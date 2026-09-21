@@ -1,20 +1,20 @@
 <div align="center">
-    <h1>¡Hola! 👋 Soy Juan José Amengual</h1>
-    <h3>Desarrollador de Aplicaciones Multiplataforma y Web</h3>
+    <h1>¡Hola! 👋 Soy Juan José Amengual Far</h1>
+    <h3>Desarrollador Web Junior | DAM & DAW</h3>
 </div>
 
 ---
+
+## 👨‍💻 Sobre mí
+
+* Soy desarrollador web Junior apasionado por la programación y el desarrollo de paginas web y aplicaciones. Me interesa especialmente el desarrollo frontend y disfruto aprendiendo nuevas tecnologías y resolviendo problemas mediante código.
+
+* Actualmente estoy buscando una oportunidad profesional en la que pueda seguir creciendo como desarrollador y aportar mis conocimientos a proyectos reales.
 
 ## 🎓 Formación
 
 - CFGS Desarrollo de Aplicaciones Web
 - CFGS Desarrollo de Aplicaciones Multiplataforma
-
-## 👨‍💻 Sobre mí
-
-* Soy desarrollador web Junior apasionado por la programación y el desarrollo de aplicaciones. Me interesa especialmente el desarrollo frontend y disfruto aprendiendo nuevas tecnologías y resolviendo problemas mediante código.
-
-* Actualmente estoy buscando una oportunidad profesional en la que pueda seguir creciendo como desarrollador y aportar mis conocimientos a proyectos reales.
 
 ## 🛠️ Tecnologías
 
@@ -37,4 +37,6 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,docker)
 
 ### Contacto
-[![Frontend](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
+
+<a href="mailto:juanjoamengualfar5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+<a href="https://www.linkedin.com/in/juan-josé-amengual-far-135404270/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
