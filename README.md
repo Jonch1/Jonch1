@@ -5,20 +5,16 @@
 
 ---
 
-💻 **Junior Web Developer**  
-🎓 Técnico Superior en Desarrollo de Aplicaciones Web y Multiplataforma  
-📍 Palma de Mallorca, España
+## 🎓 Formación
+
+- CFGS Desarrollo de Aplicaciones Web
+- CFGS Desarrollo de Aplicaciones Multiplataforma
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador web Junior apasionado por la programación y el
-desarrollo de aplicaciones. Me interesa especialmente el desarrollo
-frontend y backend y disfruto aprendiendo nuevas tecnologías y
-resolviendo problemas mediante código.
+* Soy desarrollador web Junior apasionado por la programación y el desarrollo de aplicaciones. Me interesa especialmente el desarrollo frontend y disfruto aprendiendo nuevas tecnologías y resolviendo problemas mediante código.
 
-Actualmente estoy buscando una oportunidad profesional en la que
-pueda seguir creciendo como desarrollador y aportar mis conocimientos
-a proyectos reales.
+* Actualmente estoy buscando una oportunidad profesional en la que pueda seguir creciendo como desarrollador y aportar mis conocimientos a proyectos reales.
 
 ## 🛠️ Tecnologías
 
@@ -52,11 +48,6 @@ Breve descripción del proyecto.
 **Tecnologías:** HTML · CSS · JavaScript
 
 [Ver proyecto](#)
-
-## 🎓 Formación
-
-- CFGS Desarrollo de Aplicaciones Web
-- CFGS Desarrollo de Aplicaciones Multiplataforma
 
 ## 📫 Contacto
 
