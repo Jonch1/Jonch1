@@ -8,9 +8,7 @@
 
 ## 👨‍💻 Sobre mí
 
-* Soy desarrollador web Junior apasionado por la programación y el desarrollo de paginas web y aplicaciones. Me interesa especialmente el desarrollo frontend y disfruto aprendiendo nuevas tecnologías y resolviendo problemas mediante código.
-
-* Me gusta aprender nuevas tecnologías, afrontar retos y seguir mejorando mis habilidades mediante proyectos prácticos.
+* Soy desarrollador web Junior apasionado por la programación y el desarrollo de paginas web y aplicaciones. Me interesa especialmente el desarrollo frontend y disfruto aprendiendo nuevas tecnologías, afrontando retos y resolviendo problemas mediante código para así seguir mejorando mis habilidades.
 
 * Actualmente estoy buscando una oportunidad profesional en la que pueda seguir creciendo como desarrollador y aportar mis conocimientos a proyectos reales.
 
