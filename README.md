@@ -37,7 +37,7 @@
 
 ![Tools](https://skillicons.dev/icons?i=git,github,docker)
 
-### Contacto
+### Contacto📫
 
 <a href="mailto:juanjoamengualfar5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 <a href="https://www.linkedin.com/in/juan-josé-amengual-far-135404270/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
