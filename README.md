@@ -18,25 +18,23 @@
 
 ## 🛠️ Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,php,java,cs,mysql,git,github)](https://skillicons.dev)
-
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### Backend
-- Python
-- PHP
-- Java
-- C#
+[![Backend](https://skillicons.dev/icons?i=python,php,java,cs)](https://skillicons.dev)
 
 ### Bases de datos
-- SQL
+[![Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
-## 📫 Contacto
+### CMS & Web
 
-- 📧 Email: tuemail@email.com
-- 💼 LinkedIn: [Mi LinkedIn](...)
-- 🌐 Portfolio: [Mi portfolio](...)
+[![CMS](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+<img src="https://cdn.simpleicons.org/elementor" width="48" height="48" alt="Elementor">
+
+### Herramientas
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker)
+
+### Contacto
+[![Frontend](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
