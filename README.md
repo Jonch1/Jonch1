@@ -1,16 +1,60 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Juan José Amengual
 
-<!--
-**Jonch1/Jonch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Web Developer**  
+🎓 Técnico Superior en Desarrollo de Aplicaciones Web y Multiplataforma  
+📍 Palma de Mallorca, España
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy desarrollador web Junior apasionado por la programación y el
+desarrollo de aplicaciones. Me interesa especialmente el desarrollo
+frontend y backend y disfruto aprendiendo nuevas tecnologías y
+resolviendo problemas mediante código.
+
+Actualmente estoy buscando una oportunidad profesional en la que
+pueda seguir creciendo como desarrollador y aportar mis conocimientos
+a proyectos reales.
+
+## 🛠️ Tecnologías
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+### Backend
+- Python
+- PHP
+- Java
+- C#
+
+### Bases de datos
+- SQL
+
+## 🚀 Proyectos destacados
+
+### Proyecto 1
+Breve descripción del proyecto.
+
+**Tecnologías:** React · Python · SQL
+
+[Ver proyecto](#)
+
+### Proyecto 2
+Breve descripción del proyecto.
+
+**Tecnologías:** HTML · CSS · JavaScript
+
+[Ver proyecto](#)
+
+## 🎓 Formación
+
+- CFGS Desarrollo de Aplicaciones Web
+- CFGS Desarrollo de Aplicaciones Multiplataforma
+
+## 📫 Contacto
+
+- 📧 Email: tuemail@email.com
+- 💼 LinkedIn: [Mi LinkedIn](...)
+- 🌐 Portfolio: [Mi portfolio](...)
