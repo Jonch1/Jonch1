@@ -18,6 +18,8 @@
 
 ## 🛠️ Tecnologías
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,django,java,git,github)](https://skillicons.dev)
+
 ### Frontend
 - HTML5
 - CSS3
@@ -32,22 +34,6 @@
 
 ### Bases de datos
 - SQL
-
-## 🚀 Proyectos destacados
-
-### Proyecto 1
-Breve descripción del proyecto.
-
-**Tecnologías:** React · Python · SQL
-
-[Ver proyecto](#)
-
-### Proyecto 2
-Breve descripción del proyecto.
-
-**Tecnologías:** HTML · CSS · JavaScript
-
-[Ver proyecto](#)
 
 ## 📫 Contacto
 
