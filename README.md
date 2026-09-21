@@ -3,6 +3,8 @@
     <h3>Desarrollador de Aplicaciones Multiplataforma y Web</h3>
 </div>
 
+---
+
 💻 **Junior Web Developer**  
 🎓 Técnico Superior en Desarrollo de Aplicaciones Web y Multiplataforma  
 📍 Palma de Mallorca, España
